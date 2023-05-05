@@ -1,4 +1,5 @@
-# FDM_template
-FDM template repo
+# CB_Utilities
+CB_Utilities
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+## To store any useful bits of code, notes etc that may help aother analysts.
+Bits of R or Python script etc
